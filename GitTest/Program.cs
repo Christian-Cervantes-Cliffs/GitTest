@@ -27,8 +27,12 @@ cList.Add(c1);
 cList.Add(c2);
 c1.DoSomething(cList);
 OneMethod();
+SecondMethod();
 
  void AnotherMethod() => Console.WriteLine("Another method");
 
 void OneMethod() => Console.WriteLine("Hi");
+void SecondMethod() => Console.WriteLine("Method two");
+
+
 
