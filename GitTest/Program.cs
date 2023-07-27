@@ -4,6 +4,7 @@ void DoSomething()
     var a = 3;
     var b = 4;
     Console.WriteLine(a + b);
+    //making a change
 }
 Console.WriteLine("Hello, World!");
 
