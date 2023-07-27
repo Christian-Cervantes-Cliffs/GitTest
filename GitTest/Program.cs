@@ -29,4 +29,6 @@ c1.DoSomething(cList);
 
  void AnotherMethod() => Console.WriteLine("Another method");
 
+void SecondMethod() => Console.WriteLine("Method two");
+
 
