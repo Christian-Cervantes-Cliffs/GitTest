@@ -34,5 +34,7 @@ SecondMethod();
 void OneMethod() => Console.WriteLine("Hi");
 void SecondMethod() => Console.WriteLine("Method two");
 
+var test = "T";
+
 
 
