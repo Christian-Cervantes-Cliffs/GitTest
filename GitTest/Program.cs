@@ -26,6 +26,7 @@ var cList = new List<Class1>();
 cList.Add(c1);
 cList.Add(c2);
 c1.DoSomething(cList);
+c1.DoSomething();
 OneMethod();
 SecondMethod();
 
